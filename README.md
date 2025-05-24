@@ -18,7 +18,7 @@ On 22nd May 2025, I completed all CodeChef practice problems with a difficulty r
 
 📜 Verified Certificate ID: afd2b61
 
-🔗 [Verify My Certificate] (https://www.codechef.com/certificates/verify)
+🔗 [Verify My Certificate](https://www.codechef.com/certificates/verify)
 
 🧠 What I Learned
 Mastery of basic algorithms and data structures
